@@ -1,0 +1,32 @@
+[
+  {
+    "nama": "Kucing Oren",
+    "namaLatin": "Felis Orenicus",
+    "imageId": "kucing1"
+  },
+  {
+    "nama": "Kucing Putih",
+    "namaLatin": "Felis Putihica",
+    "imageId": "kucing2"
+  },
+  {
+    "nama": "Kucing Hitam",
+    "namaLatin": "Felis Hitamus",
+    "imageId": "kucing3"
+  },
+  {
+    "nama": "Kucing Abu",
+    "namaLatin": "Felis Griseus",
+    "imageId": "kucing4"
+  },
+  {
+    "nama": "Kucing Belang",
+    "namaLatin": "Felis Bengalus",
+    "imageId": "kucing5"
+  },
+  {
+    "nama": "Kucing Lucu",
+    "namaLatin": "Felis Cattus Lucius",
+    "imageId": "kucing6"
+  }
+]
